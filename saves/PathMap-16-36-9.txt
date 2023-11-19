@@ -1,0 +1,6 @@
+Path:0
+Segment:0;P0:[ 100.0, 100.0, 0.0 ];Pf:[ 200.0, 200.0, 0.0 ];col:-16776961;PreviousSegment:null;NextSegment:1
+Segment:1;P0:[ 200.0, 200.0, 0.0 ];Pf:[ 500.0, 800.0, 0.0 ];col:-16711936;PreviousSegment:0;NextSegment:2
+Segment:2;P0:[ 500.0, 800.0, 0.0 ];Pf:[ 100.0, 100.0, 0.0 ];col:-10192696;PreviousSegment:1;NextSegment:null
+Path:1
+Segment:0;P0:[ 400.0, 100.0, 0.0 ];Pf:[ 500.0, 100.0, 0.0 ];col:-16776961;PreviousSegment:null;NextSegment:null
